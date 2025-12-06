@@ -38,8 +38,10 @@
 </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
-<h3 align="center">🏆GitHub Trophies
-        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Isha2790&no-bg=true&row=2&column=6theme=monokai" alt="Isha2790"/></a> 
-</h3>
-
+<h3 align="center">🏆GitHub Trophies</h3>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Isha2790&no-bg=true&row=2&column=6theme=monokai" alt="Isha2790"/>
+  </a>
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isha2790&bg_color=0f0f0f&color=00FFF2&line=9C339C&point=FF00FF&area=false&hide_border=false" style="border-radius: 15px;">
