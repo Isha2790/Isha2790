@@ -39,7 +39,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 
 <h3 align="center">🏆GitHub Trophies
-        <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=Isha2790&theme=darkhub" alt="Isha2790"/></a> 
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Isha2790&theme=monokai" alt="Isha2790"/></a> 
 </h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isha2790&bg_color=0f0f0f&color=00FFF2&line=9C339C&point=FF00FF&area=false&hide_border=false" style="border-radius: 15px;">
