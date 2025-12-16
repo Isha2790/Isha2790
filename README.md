@@ -32,7 +32,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>  <!--  Animated Line gif-->
 
 <h3 align="center">🏆GitHub Trophies</h3>
-<p>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Isha2790&no-bg=true&row=2&column=6theme=monokai" alt="Isha2790"/>
   </a>
@@ -46,23 +46,28 @@
 </a>
 </p>
 
+<div align="center">
 <table width="100%">
-  <td width="50%">
-<h3 align="center">Streak Statistics</h3>
-<p align="center">
-<a href="https://github.com/Isha2790">
-<img align="center" src="https://streak-stats.demolab.com?user=Isha2790&background=0f0f0f&fire=FF00FF&ring=00FFF2&sideNums=FF00FF&sideLabels=00FFF2&dates=FF00FF&currStreakNum=FF00FF" alt="Streak Stats"/>
-</a>
-</p>
-</td>
-  <td width="50%">
-<h3 align="center">Top Contributions</h3>
-<p align="center">
-<a href="https://github.com/Isha2790">
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=Isha2790&limit=2&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo"/>
-</a>
-</p>
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Streak Statistics</h3>
+      <p align="center">
+        <a href="https://github.com/Isha2790">
+          <img align="center" src="https://streak-stats.demolab.com?user=Isha2790&background=0f0f0f&fire=FF00FF&ring=00FFF2&sideNums=FF00FF&sideLabels=00FFF2&dates=FF00FF&currStreakNum=FF00FF" alt="Streak Stats"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Top Contributions</h3>
+      <p align="center">
+        <a href="https://github.com/Isha2790">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Isha2790&limit=2&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+</div>
+
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isha2790&bg_color=0f0f0f&color=00FFF2&line=9C339C&point=FF00FF&area=false&hide_border=false" style="border-radius: 15px;">
