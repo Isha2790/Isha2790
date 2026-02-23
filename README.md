@@ -14,7 +14,7 @@
 - 📫 How to reach me **ishachoudhary54321@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920"/>   <!--  Animated Line gif-->
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> Connect with me:</h3>
 <p align="left">
@@ -22,8 +22,8 @@
 <a href="https://www.instagram.com/_._ishaaa___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isha2790&label=Profile%20views&color=0e75b6&style=flat" alt="isha2790" /> </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isha2790&label=Profile%20views&color=0e75b6&style=flat" alt="Isha2790"/> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920"/>   <!--  Animated Line gif-->
 
 <!--Languages and Tools Section-->   
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Languages and Tools:</h3>
