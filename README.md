@@ -23,6 +23,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isha2790&label=Profile%20views&color=0e75b6&style=flat" alt="Isha2790"/> </p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920"/>   <!--  Animated Line gif-->
 
 <!--Languages and Tools Section-->   
@@ -79,7 +80,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Isha2790">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Isha2790&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Isha2790&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Top Repo"/>
         </a>
       </p>
     </td>
