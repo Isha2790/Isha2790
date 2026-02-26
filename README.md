@@ -90,3 +90,8 @@
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isha2790&bg_color=0f0f0f&color=00FFF2&line=9C339C&point=FF00FF&area=false&hide_border=false" style="border-radius: 15px;">
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="1920"/>
+</p>
