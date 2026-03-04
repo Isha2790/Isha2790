@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif"/>
+  <img src="https://raw.githubusercontent.com/Isha2790/Isha2790/main/image.gif"/>
 </p>
 
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Isha Choudhary</h1>
