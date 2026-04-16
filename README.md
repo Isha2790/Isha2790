@@ -81,7 +81,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Isha2790">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Isha2790&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Top Repo"/>
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Isha2790&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Top Repo"/>
         </a>
       </p>
     </td>
