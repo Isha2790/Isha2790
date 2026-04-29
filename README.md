@@ -5,15 +5,14 @@
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Isha Choudhary</h1>
 <h3 align="left">Aspiring Software Engineer| Full-Stack Developer| GSoC'24 Contributor| Blockchain and AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working on **Full Stack AI GitHub SaaS application**
+- I’m currently working on **Full Stack AI GitHub SaaS application**
 
-- 🌱 I’m currently learning **React.js**
+- I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, Machine Learning and AWS**
+- Ask me about **Java, Machine Learning and AWS**
 
-- 📫 How to reach me **ishachoudhary54321@gmail.com**
+- How to reach me **ishachoudhary54321@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1920"/>   <!--  Animated Line gif-->
 
