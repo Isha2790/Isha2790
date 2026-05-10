@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Isha Choudhary</h1>
-<h3 align="left">Aspiring Software Engineer| Full-Stack Developer| GSoC'24 Contributor| Blockchain and AI/ML Enthusiast</h3>
+<h3 align="left">Aspiring Software Engineer| Full-Stack Developer| GSSoC'24 Contributor| Blockchain and AI/ML Enthusiast</h3>
 
 - I’m currently working on **Full Stack AI GitHub SaaS application**
 
