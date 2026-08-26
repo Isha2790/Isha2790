@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Isha2790/Isha2790/main/image.gif"/>
+  <img src="portrait.svg" width="220" alt="My portrait, dot-matrix style" />
 </p>
+<h1 align="left">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Isha Choudhary
+</h1>
+<div align="center">
 
-<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Isha Choudhary</h1>
-<h3 align="left">Aspiring Software Engineer| Full-Stack Developer| GSSoC'24 Contributor| Blockchain and AI/ML Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=27EAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+Software+Developer;Open-Source+Contributor;AI+ML+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 - I’m currently working on **Full Stack AI GitHub SaaS application**
 
