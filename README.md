@@ -6,18 +6,18 @@
 </h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=27EAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+Software+Developer;Open-Source+Contributor;AI+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=27EAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+SDE;Open-Source+Contributor;AI+ML+Enthusiast)](https://git.io/typing-svg)
 
 </div>
+<h1>
+  🚀About me
+</h1>
 
-- I’m currently working on **Full Stack AI GitHub SaaS application**
-
-- I’m currently learning **React.js**
-
-- Ask me about **Java, Machine Learning and AWS**
-
+- I’m currently working on **SaaS application**
+- I’m currently learning **System Design**
+- Ask me about **full stack, AI and AWS**
 - How to reach me **ishachoudhary54321@gmail.com**
-
+- Open Source Contributor with contributions across multiple repositories
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1920"/>   <!--  Animated Line gif-->
 
