@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Isha2790/Isha2790/main/image.gif"/>
 </p>
+<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Isha Choudhary</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=27EAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+SDE;Open-Source+Contributor;AI+ML+Enthusiast)](https://git.io/typing-svg)
@@ -10,7 +11,7 @@
   🚀About me
 </h1>
 
-Hey, I'm Isha, and I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal. My expertise is Full-Stack Development, AI, and DSA, and I'm expanding my knowledge in System Design, CyberSecurity, and Cloud.
+I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal. My expertise is Full-Stack Development, AI, and DSA, and I'm expanding my knowledge in System Design, CyberSecurity, and Cloud.
 
 - ⚙️ I’m currently working on a **SaaS application**
 - 📚 I’m currently learning about **System Design**
