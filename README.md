@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Isha2790/Isha2790/main/image.gif"/>
+</p>
+<p align="center">
   <img src="portrait.svg" width="220" alt="My portrait, dot-matrix style" />
 </p>
 <h1 align="left">
