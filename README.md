@@ -1,12 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Isha2790/Isha2790/main/image.gif"/>
 </p>
-<p align="center">
-  <img src="portrait.svg" width="220" alt="My portrait, dot-matrix style" />
-</p>
-<h1 align="left">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Isha Choudhary
-</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=27EAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Aspiring+SDE;Open-Source+Contributor;AI+ML+Enthusiast)](https://git.io/typing-svg)
@@ -16,11 +10,14 @@
   🚀About me
 </h1>
 
-- I’m currently working on **SaaS application**
-- I’m currently learning **System Design**
-- Ask me about **full stack, AI and AWS**
-- How to reach me **ishachoudhary54321@gmail.com**
-- Open Source Contributor with contributions across multiple repositories
+Hey, I'm Isha, and I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal. My expertise is Full-Stack Development, AI, and DSA, and I'm expanding my knowledge in System Design, CyberSecurity, and Cloud.
+
+- ⚙️ I’m currently working on a **SaaS application**
+- 📚 I’m currently learning about **System Design**
+- 💬 You can ask me about **full stack, AI, and AWS**
+- 🌟 Open Source Contributor with contributions across multiple repositories(like LangChain, yolov5, jellyfin , OpenBB etc.)
+- 🏆 Achieved LeetCode Knight Badge (Max Contest Rating: 1862), placing in the top 5.78% of 874,000+ coders globally with 300+ problems solved.
+- 📧 How to reach me **ishachoudhary54321@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1920"/>   <!--  Animated Line gif-->
 
