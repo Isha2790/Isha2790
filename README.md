@@ -15,7 +15,7 @@ I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal Un
 
 - ⚙️ I’m currently working on a **SaaS application**
 - 📚 I’m currently learning about **System Design**
-- 💬 You can ask me about **full stack, AI, and AWS**
+- 💬 You can ask me about **Full-stack, AI, and AWS**
 - 🌟 Open Source Contributor with contributions across multiple repositories(like LangChain, yolov5, jellyfin , OpenBB etc.)
 - 🏆 Achieved LeetCode Knight Badge (Max Contest Rating: 1862), placing in the top 5.78% of 874,000+ coders globally with 300+ problems solved.
 - 📧 How to reach me **ishachoudhary54321@gmail.com**
