@@ -78,7 +78,7 @@ I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal Un
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Isha2790/Music_Catalog_Insights_Platform">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Isha2790&repo=Music_Catalog_Insights_Platform&theme=nightowl&show_owner=true&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Isha2790&repo=Dispatch-Load-Balancer-Project&theme=nightowl&show_owner=true&bg_color=0f0f0f&title_color=00FFF2&text_color=FF00FF" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
