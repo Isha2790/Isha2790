@@ -11,7 +11,7 @@
   🚀About me
 </h1>
 
-I'm a final-year CSE student from Vellore Institute of Technology(VIT) Bhopal University. My expertise is Full-Stack Development, AI, and DSA, and I'm expanding my knowledge in System Design, CyberSecurity, and Cloud.
+I'm a CSE graduate student from Vellore Institute of Technology(VIT) Bhopal University. My expertise is Full-Stack Development, AI, and DSA, and I'm expanding my knowledge in System Design, CyberSecurity, and Cloud.
 
 - ⚙️ I’m currently working on a **SaaS application**
 - 📚 I’m currently learning about **System Design**
