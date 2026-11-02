@@ -18,6 +18,7 @@ I'm a CSE graduate student from Vellore Institute of Technology(VIT) Bhopal Univ
 - 💬 You can ask me about **Full-stack, AI, and AWS**
 - 🌟 Open Source Contributor with contributions across multiple repositories(like LangChain, yolov5, jellyfin , OpenBB etc.)
 - 🏆 Achieved LeetCode Knight Badge (Max Contest Rating: 1862), placing in the top 6% of 874,000+ coders globally with 300+ problems solved.
+- 💡I also took part in many hackathons like IBM Datathon, Adobe India Hackathon, Flipkart GRid Hackathon, and many more. Recently took part in HackerRank Orchestrate (Oct. Edition) and achieved 1325th rank out     of 4000+ participants making it to the top 33%. 
 - 📧 How to reach me **ishachoudhary54321@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1920"/>   <!--  Animated Line gif-->
